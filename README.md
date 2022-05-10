@@ -42,4 +42,4 @@ The program will contain the following components:
 
 
 ## Run
-You need to update Processing to version 4 and install a library called "PeasyCam".
+You need to update Processing to version 4 and install a library called "PeasyCam".　
