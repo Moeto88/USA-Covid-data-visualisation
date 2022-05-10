@@ -39,3 +39,7 @@ The program will contain the following components:
   
 - code to put everything together  
   - You are advised to have an outline of this as early as possible (first week of project).   
+
+
+## Run
+You need to update Processing to version 4 and install a library called "PeasyCam".
