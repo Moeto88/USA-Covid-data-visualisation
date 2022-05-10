@@ -17,7 +17,7 @@ Each entry appears on a new line. Varying size datasets will be available from l
 - Country – string indicating the country    
 Fields are not expected to be empty, but it is best to program defensively.  
   
-2. Structure  
+## Structure  
 The program will contain the following components:  
 - code to read in the data from a file and place it in classes.  
   - Processing provides both loadBytes and loadStrings commands  
